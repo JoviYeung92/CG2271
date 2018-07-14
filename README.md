@@ -24,3 +24,6 @@ Real-time systems must respond quickly to inputs from the environment in order t
 - Midterm Test 20%
 - Final Examination 40%
 - Attendance & Participation 5%
+
+## Licence
+[GNU General Public Licence 3.0](LICENSE)
